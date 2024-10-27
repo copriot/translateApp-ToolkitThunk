@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 import { getLanguages } from "../actions";
-getLanguages
+
 
 const initialState = {
     isLoading: false,

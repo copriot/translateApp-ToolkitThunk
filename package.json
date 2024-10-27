@@ -16,6 +16,7 @@
     "react-dom": "^18.2.0",
     "react-redux": "^9.1.2",
     "react-select": "^5.8.1",
+    "styled-components": "^6.1.13",
     "tailwind": "^4.0.0"
   },
   "devDependencies": {
